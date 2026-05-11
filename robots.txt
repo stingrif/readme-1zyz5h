@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stingrif.github.io/readme-1zyz5h/sitemap.xml
